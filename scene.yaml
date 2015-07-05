@@ -14,7 +14,7 @@ lights:
 sources:
     gsi:
         type: GeoJSONTiles
-        url:  //cyberjapandata.gsi.go.jp/xyz/experimental_fgd/{z}/{x}/{y}.geojson
+        url: //cyberjapandata.gsi.go.jp/xyz/experimental_fgd/{z}/{x}/{y}.geojson
         max-zoom: 18
 
 layers:
